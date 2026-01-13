@@ -30,11 +30,9 @@ https://viamotionhsi.netplus.ch/live/eds/gulli/browser-HLS8/gulli.m3u8
 #EXTINF:-1 tvg-id="BFMTV.fr@SD",BFM TV
 https://viamotionhsi.netplus.ch/live/eds/bfmtv/browser-HLS8/bfmtv.m3u8
 #EXTINF:-1 tvg-id="CNews.fr@SD",CNews
-https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/cnews.m3u8
+https://viamotionhsi.netplus.ch/live/eds/itele/browser-HLS8/itele.m3u8
 #EXTINF:-1 tvg-id="LCI.fr@SD",LCI
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/btv/py/lci1.m3u8
-#EXTINF:-1 tvg-id="Franceinfo.fr@SD",Franceinfo
-https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/franceinfotv.m3u8
 #EXTINF:-1 tvg-id="Franceinfo.fr@SD",Franceinfo
 https://viamotionhsi.netplus.ch/live/eds/franceinfo/browser-HLS8/franceinfo.m3u8
 #EXTINF:-1 tvg-id="T18.fr@HD",T18
@@ -49,6 +47,8 @@ https://viamotionhsi.netplus.ch/live/eds/numero23/browser-HLS8/numero23.m3u8
 https://live-20minutestv.digiteka.com/1961167769/index.m3u8
 #EXTINF:-1 tvg-id="AB1.fr@SD",AB1
 https://viamotionhsi.netplus.ch/live/eds/ab1/browser-HLS8/ab1.m3u8
+#EXTINF:-1 tvg-id="MTV.fr@SD",MTV
+https://viamotionhsi.netplus.ch/live/eds/mtvfrance/browser-HLS8/mtvfrance.m3u8
 #EXTINF:-1 tvg-name="NRJ 12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/NRJ12_logo_2015.svg/749px-NRJ12_logo_2015.svg.png" tvg-id="NRJ12.fr" group-title="France",NRJ 12
 https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8
 #EXTINF:-1 tvg-id="CFTMDT.ca@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/TVA_logo_2020.svg/512px-TVA_logo_2020.svg.png" group-title="General",TVA [Geo-blocked]
