@@ -9,16 +9,6 @@ http://apk.zentv4k.me/play/live.php?mac=00:1A:79:7B:D8:EE&stream=1537514&extensi
 http://apk.zentv4k.me/play/live.php?mac=00:1A:79:7B:D8:EE&stream=1537513&extension=ts
 #EXTINF:-1 tvg-id="France5" group-title="TNT",FRANCE 5
 http://apk.zentv4k.me/play/live.php?mac=00:1A:79:7B:D8:EE&stream=1537512&extension=ts
-#EXTINF:-1 tvg-id="France5" group-title="TNT",FRANCE 5 [france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-5.m3u8
-#EXTINF:-1 tvg-id="M6" group-title="TNT",M6 HEVC
-http://apk.zentv4k.me/play/live.php?mac=00:1A:79:7B:D8:EE&stream=425605&extension=ts
-#EXTINF:-1 tvg-id="M6" group-title="TNT",M6 VIP RAW
-http://apk.zentv4k.me:80/play/live.php?mac=00:1A:79:7B:D8:EE&stream=1687219&extension=ts
-#EXTINF:-1 tvg-id="M6" group-title="TNT",M6 VIP HD
-http://apk.zentv4k.me:80/play/live.php?mac=00:1A:79:7B:D8:EE&stream=1687188&extension=ts
-#EXTINF:-1 tvg-id="M6" group-title="TNT",M6 UHD
-http://apk.zentv4k.me:80/play/live.php?mac=00:1A:79:7B:D8:EE&stream=220808&extension=ts
 #EXTINF:-1 tvg-id="M6" group-title="TNT",M6 HD
 http://apk.zentv4k.me:80/play/live.php?mac=00:1A:79:7B:D8:EE&stream=207144&extension=ts
 #EXTINF:-1 tvg-id="Arte" group-title="TNT",ARTE
