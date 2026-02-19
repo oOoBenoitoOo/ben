@@ -21,7 +21,6 @@ http://apk.zentv4k.me:80/play/live.php?mac=00:1A:79:7B:D8:EE&stream=1687188&exte
 http://apk.zentv4k.me:80/play/live.php?mac=00:1A:79:7B:D8:EE&stream=220808&extension=ts
 #EXTINF:-1 tvg-id="M6" tvg-logo="https://ppechenot.github.io/perso/logos/m6.png" group-title="TNT",M6 HD
 http://apk.zentv4k.me:80/play/live.php?mac=00:1A:79:7B:D8:EE&stream=207144&extension=ts
-
 #EXTINF:-1 tvg-id="Arte" tvg-logo="https://ppechenot.github.io/perso/logos/arte.png" group-title="TNT",ARTE
 http://apk.zentv4k.me/play/live.php?mac=00:1A:79:7B:D8:EE&stream=425565&extension=ts
 #EXTINF:-1 tvg-id="LCP" tvg-logo="https://ppechenot.github.io/perso/logos/lcp.png" group-title="TNT",LCP
@@ -48,7 +47,6 @@ http://apk.zentv4k.me/play/live.php?mac=00:1A:79:7B:D8:EE&stream=425558&extensio
 https://viamotionhsi.netplus.ch/live/eds/animaux/browser-HLS8/animaux.m3u8
 #EXTINF:-1 tvg-id="Caillou.fr@SD",Caillou
 https://do7nccdsswstc.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1aso0bc668saa/a5233c83-f772-4a81-959a-45ec7877ef61/5.m3u8
-
 #EXTINF:-1 tvg-id="CanalPlus" tvg-logo="https://ppechenot.github.io/perso/logos/canal+.png" group-title="CINEMA",CANAL+
 http://apk.zentv4k.me/play/live.php?mac=00:1A:79:7B:D8:EE&stream=425573&extension=ts
 #EXTINF:-1 tvg-id="CanalPlusCinema" tvg-logo="https://ppechenot.github.io/perso/logos/canal+_cinema(s).png" group-title="CINEMA",CANAL+ CINEMA(S)
@@ -75,7 +73,6 @@ http://apk.zentv4k.me/play/live.php?mac=00:1A:79:7B:D8:EE&stream=1537501&extensi
 http://apk.zentv4k.me/play/live.php?mac=00:1A:79:7B:D8:EE&stream=1537536&extension=ts
 #EXTINF:-1 tvg-id="Canal+ Kids.fr@SD",Canal+ Kids
 https://live.streamgatos.top/hls/362/stream.m3u8
-
 #EXTINF:-1 tvg-id="",Rakuten TV Films Action (720p)
 https://01ac9352fbfa4204998783d41f9b1a2e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6068/master.m3u8
 #EXTINF:-1 tvg-id="",Rakuten TV Films Comédie (720p)
@@ -88,12 +85,10 @@ https://b3088e48baab418a9a95dc8110a1b736.mediatailor.eu-west-1.amazonaws.com/v1/
 https://9affb6144c4c4cdca25d58908cb55a64.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6195/master.m3u8
 #EXTINF:-1 tvg-id="",Rakuten TV Films Thriller (720p)
 https://thriller-rakuten-tv-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6479/master.m3u8
-
 #EXTINF:-1 tvg-id="SonyOneHitsAction.fr@HD",Sony One Hits Action (1080p)
 https://5098a8b860504a3690fd2e7c0a18d68f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-817-FR-SONYONEHITSACTION-LG_FR/playlist.m3u8
 #EXTINF:-1 tvg-id="SonyOneHitsComedie.fr@HD",Sony One Hits Comedie (1080p)
 https://7aa9671895264ec9a384dfed1b992171.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-818-FR-SONYONEHITSCOMDIE-LG_FR/playlist.m3u8
-
 #EXTINF:-1 tvg-id="NRJ Hits.fr@SD",NRJ Hits
 https://live.streamgatos.top/hls/7322/stream.m3u8
 #EXTINF:-1 tvg-id="M6 Music.fr@SD",M6 Music
@@ -108,7 +103,6 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8ed0f17564a300082b676a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c9ccb53e-620e-11ef-b11f-5e151e6e439f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0864c78c-bab0-4409-bc59-b5376c638f28&userId=&serverSideAds=true
 #EXTINF:-1 channel-id="pluto-60812fc8539963000707d1e1" tvg-id="60812fc8539963000707d1e1" tvg-logo="https://images.pluto.tv/channels/60812fc8539963000707d1e1/colorLogoPNG.png" group-title="Cinéma",Pluto TV Romance
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60812fc8539963000707d1e1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c9ccb53e-620e-11ef-b11f-5e151e6e439f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0864c78c-bab0-4409-bc59-b5376c638f28&userId=&serverSideAds=true
-
 #EXTINF:-1 tvg-id="PolarPlus" tvg-logo="https://ppechenot.github.io/perso/logos/polar+.png" group-title="SERIES",POLAR+
 http://apk.zentv4k.me/play/live.php?mac=00:1A:79:7B:D8:EE&stream=1687061&extension=ts
 #EXTINF:-1 tvg-id="ComediePlus" tvg-logo="https://ppechenot.github.io/perso/logos/comedie+.png" group-title="SERIES",COMEDIE+
@@ -129,7 +123,6 @@ http://apk.zentv4k.me/play/live.php?mac=00:1A:79:7B:D8:EE&stream=425584&extensio
 http://apk.zentv4k.me/play/live.php?mac=00:1A:79:7B:D8:EE&stream=207182&extension=ts
 #EXTINF:-1 tvg-id="RTL9" tvg-logo="https://ppechenot.github.io/perso/logos/rtl9.png" group-title="SERIES",RTL9
 http://apk.zentv4k.me/play/live.php?mac=00:1A:79:7B:D8:EE&stream=106924&extension=ts
-
 #EXTINF:-1 tvg-id="CanalPlusDocs" tvg-logo="https://ppechenot.github.io/perso/logos/canal+_docs.png" group-title="CULTURE",CANAL+ DOCS
 http://apk.zentv4k.me/play/live.php?mac=00:1A:79:7B:D8:EE&stream=1687074&extension=ts
 #EXTINF:-1 tvg-id="NationalGeographic" tvg-logo="https://ppechenot.github.io/perso/logos/national_geographic.png" group-title="CULTURE",NATIONAL GEOGRAPHIC
@@ -146,7 +139,6 @@ http://apk.zentv4k.me/play/live.php?mac=00:1A:79:7B:D8:EE&stream=425557&extensio
 http://apk.zentv4k.me/play/live.php?mac=00:1A:79:7B:D8:EE&stream=1537498&extension=ts
 #EXTINF:-1 tvg-id="MuseumTV" tvg-logo="https://ppechenot.github.io/perso/logos/museum_tv.png" group-title="CULTURE",MUSEUM TV
 http://apk.zentv4k.me/play/live.php?mac=00:1A:79:7B:D8:EE&stream=220869&extension=ts
-
 #EXTINF:-1 tvg-id="RTS1" tvg-logo="https://ppechenot.github.io/perso/logos/rts1.png" group-title="EUROPE",RTS 1
 http://apk.zentv4k.me/play/live.php?mac=00:1A:79:7B:D8:EE&stream=386559&extension=ts
 #EXTINF:-1 tvg-id="RTS2" tvg-logo="https://ppechenot.github.io/perso/logos/rts2.png" group-title="EUROPE",RTS 2
@@ -155,7 +147,6 @@ http://apk.zentv4k.me/play/live.php?mac=00:1A:79:7B:D8:EE&stream=386547&extensio
 http://apk.zentv4k.me/play/live.php?mac=00:1A:79:7B:D8:EE&stream=368587&extension=ts
 #EXTINF:-1 tvg-id="LaTrois" tvg-logo="https://ppechenot.github.io/perso/logos/la_trois.png" group-title="EUROPE",LA TROIS
 http://apk.zentv4k.me/play/live.php?mac=00:1A:79:7B:D8:EE&stream=985191&extension=ts
-
 #EXTINF:-1 tvg-id="LEquipe" tvg-logo="https://ppechenot.github.io/perso/logos/lequipe.png" group-title="SPORT",L'Equipe [1080p-samsungtvplus]
 https://jmp2.uk/stvp-FR200016Y5
 #EXTINF:-1 tvg-id="LEquipe" tvg-logo="https://ppechenot.github.io/perso/logos/lequipe.png" group-title="SPORT",L EQUIPE [FR-NETPLUS.TV]
