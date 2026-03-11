@@ -9,8 +9,8 @@ https://viamotionhsi.netplus.ch/live/eds/france3hd/browser-dash/france3hd.mpd
 https://viamotionhsi.netplus.ch/live/eds/france4hd/browser-dash/france4hd.mpd
 #EXTINF:-1 tvg-id="FRANCE 5" tvg-logo="https://mchoumi.github.io/LOGOs/FRANCE5.png",FRANCE 5
 https://viamotionhsi.netplus.ch/live/eds/france5hd/browser-dash/france5hd.mpd
-#EXTINF:-1 tvg-id="Canal+ Kids.fr@SD",Canal+ Kids
-https://live.streamgatos.top/hls/362/stream.m3u8
+#EXTINF:-1 tvg-id="M6" tvg-logo="https://mchoumi.github.io/LOGOs/M6.png" group-title="🇫🇷法兰西公共", M6
+https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-HLS8/m6hd.m3u8 
 #EXTINF:-1 tvg-id="",Rakuten TV Films Action (720p)
 https://01ac9352fbfa4204998783d41f9b1a2e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6068/master.m3u8
 #EXTINF:-1 tvg-id="",Rakuten TV Films Comédie (720p)
@@ -27,17 +27,3 @@ https://thriller-rakuten-tv-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b
 https://5098a8b860504a3690fd2e7c0a18d68f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-817-FR-SONYONEHITSACTION-LG_FR/playlist.m3u8
 #EXTINF:-1 tvg-id="SonyOneHitsComedie.fr@HD",Sony One Hits Comedie (1080p)
 https://7aa9671895264ec9a384dfed1b992171.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-818-FR-SONYONEHITSCOMDIE-LG_FR/playlist.m3u8
-#EXTINF:-1 tvg-id="NRJ Hits.fr@SD",NRJ Hits
-https://live.streamgatos.top/hls/7322/stream.m3u8
-#EXTINF:-1 tvg-id="M6 Music.fr@SD",M6 Music
-https://live.streamgatos.top/hls/4909/stream.m3u8
-#EXTINF:-1 channel-id="pluto-60c34592c911890007f29a73" tvg-id="60c34592c911890007f29a73" group-title="Cinéma",Pluto TV Sci-Fi
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60c34592c911890007f29a73/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c9ccb53e-620e-11ef-b11f-5e151e6e439f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0864c78c-bab0-4409-bc59-b5376c638f28&userId=&serverSideAds=true
-#EXTINF:-1 channel-id="pluto-65cca3e2ec452d0008af3a65" tvg-id="65cca3e2ec452d0008af3a65" group-title="Cinéma",Pluto TV Western
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65cca3e2ec452d0008af3a65/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c9ccb53e-620e-11ef-b11f-5e151e6e439f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0864c78c-bab0-4409-bc59-b5376c638f28&userId=&serverSideAds=true
-#EXTINF:-1 channel-id="pluto-62f3e2d000418d00070f7dbc" tvg-id="62f3e2d000418d00070f7dbc" group-title="Cinéma",Pluto TV Ciné d'Asie
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62f3e2d000418d00070f7dbc/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c9ccb53e-620e-11ef-b11f-5e151e6e439f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0864c78c-bab0-4409-bc59-b5376c638f28&userId=&serverSideAds=true
-#EXTINF:-1 channel-id="pluto-5f8ed0f17564a300082b676a" tvg-id="5f8ed0f17564a300082b676a" group-title="Cinéma",Pluto TV Ciné
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8ed0f17564a300082b676a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c9ccb53e-620e-11ef-b11f-5e151e6e439f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0864c78c-bab0-4409-bc59-b5376c638f28&userId=&serverSideAds=true
-#EXTINF:-1 channel-id="pluto-60812fc8539963000707d1e1" tvg-id="60812fc8539963000707d1e1" group-title="Cinéma",Pluto TV Romance
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60812fc8539963000707d1e1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c9ccb53e-620e-11ef-b11f-5e151e6e439f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0864c78c-bab0-4409-bc59-b5376c638f28&userId=&serverSideAds=true
