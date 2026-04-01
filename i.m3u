@@ -1,32 +1,18 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="TF1" tvg-logo="https://mchoumi.github.io/LOGOs/TF1.png",TF1
-https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-dash/tf1hd.mpd
-#EXTINF:-1 tvg-id="FRANCE 2" tvg-logo="https://mchoumi.github.io/LOGOs/FRANCE2.png",FRANCE 2
-https://viamotionhsi.netplus.ch/live/eds/france2hd/browser-dash/france2hd.mpd
-#EXTINF:-1 tvg-id="France 3" tvg-logo="https://mchoumi.github.io/LOGOs/France3.png",France 3
-https://viamotionhsi.netplus.ch/live/eds/france3hd/browser-dash/france3hd.mpd 
-#EXTINF:-1 tvg-id="FRANCE 4" tvg-logo="https://mchoumi.github.io/LOGOs/FRANCE4.png",FRANCE 4
-https://viamotionhsi.netplus.ch/live/eds/france4hd/browser-dash/france4hd.mpd
-#EXTINF:-1 tvg-id="FRANCE 5" tvg-logo="https://mchoumi.github.io/LOGOs/FRANCE5.png",FRANCE 5
-https://viamotionhsi.netplus.ch/live/eds/france5hd/browser-dash/france5hd.mpd
-#EXTINF:-1 tvg-id="M6" tvg-logo="https://mchoumi.github.io/LOGOs/M6.png", M6
-https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-HLS8/m6hd.m3u8 
-#EXTINF:-1 tvg-id="bfmtv.fr" tvg-logo="https://picserve.netplus.ch/channels/bfmtv.png",BFM TV HD 720p
-https://viamotionhsi.netplus.ch/live/eds/bfmtv/browser-dash/bfmtv.mpd
-#EXTINF:-1 tvg-id="france24.fr" tvg-logo="https://picserve.netplus.ch/channels/france24.png",France24 HD 720p
-https://viamotionhsi.netplus.ch/live/eds/france24/browser-dash/france24.mpd
-#EXTINF:-1 tvg-id="euronews.fr" tvg-logo="https://picserve.netplus.ch/channels/euronews.png",euronews F HD 720p
-https://viamotionhsi.netplus.ch/live/eds/euronews/browser-dash/euronews.mpd
-#EXTINF:-1 tvg-id="cnews.fr" tvg-logo="https://picserve.netplus.ch/channels/itele.png",CNEWS HD 720p
-https://viamotionhsi.netplus.ch/live/eds/itele/browser-dash/itele.mpd
-#EXTINF:-1 tvg-id="lci.fr" tvg-logo="https://picserve.netplus.ch/channels/lci.png",LCI HD 720p
-https://viamotionhsi.netplus.ch/live/eds/lci/browser-dash/lci.mpd
-#EXTINF:-1 tvg-id="canalj.fr" tvg-logo="https://picserve.netplus.ch/channels/canalj.png",Canal J HD
-https://viamotionhsi.netplus.ch/live/eds/canalj/browser-dash/canalj.mpd
-#EXTINF:-1 tvg-id="cartoonnetwork.ch" tvg-logo="https://picserve.netplus.ch/channels/cartoonnetwork.png",CARTOON NETWORK 720p
-https://viamotionhsi.netplus.ch/live/eds/cartoonnetwork/browser-dash/cartoonnetwork.mpd
-#EXTINF:-1 tvg-id="gulli.fr" tvg-logo="https://picserve.netplus.ch/channels/gulli.png",gulli 720p
-https://viamotionhsi.netplus.ch/live/eds/gulli/browser-dash/gulli.mpd
+#EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://mchoumi.github.io/LOGOs/TF1.png" group-title="France",TF1
+http://atlas213.xyz:80/live/ce9Sw3EA/sOVkvhAGro/192831.ts 
+#EXTINF:-1 tvg-id="France.2.fr" tvg-logo="https://mchoumi.github.io/LOGOs/France2.png" group-title="France",FRANCE 2
+http://atlas213.xyz:80/live/ce9Sw3EA/sOVkvhAGro/202465.ts 
+#EXTINF:-1 tvg-id="France.3.fr" tvg-logo="https://mchoumi.github.io/LOGOs/France3.png" group-title="France",France 3
+http://atlas213.xyz:80/live/ce9Sw3EA/sOVkvhAGro/202466.ts 
+#EXTINF:-1 tvg-id="France.4.fr" tvg-logo="https://mchoumi.github.io/LOGOs/France4.png" group-title="France",FRANCE 4
+http://atlas213.xyz:80/live/ce9Sw3EA/sOVkvhAGro/202467.ts 
+#EXTINF:-1 tvg-id="France.5.fr" tvg-logo="https://mchoumi.github.io/LOGOs/France5.png" group-title="France",FRANCE 5
+http://atlas213.xyz:80/live/ce9Sw3EA/sOVkvhAGro/202468.ts
+#EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://mchoumi.github.io/LOGOs/M6.png" group-title="France",M6
+http://atlas213.xyz:80/live/ce9Sw3EA/sOVkvhAGro/228301.ts
+#EXTINF:-1 tvg-id="CANAL+.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/CanalPlus.png",Canal+ France 
+http://195.128.24.55:80/play/live.php?mac=00:1A:79:CB:8C:5F&stream=275682&extension=ts&play_token=l6FUFiChcU 
 #EXTINF:-1 tvg-id="",Rakuten TV Films Action (720p)
 https://01ac9352fbfa4204998783d41f9b1a2e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6068/master.m3u8
 #EXTINF:-1 tvg-id="",Rakuten TV Films Comédie (720p)
